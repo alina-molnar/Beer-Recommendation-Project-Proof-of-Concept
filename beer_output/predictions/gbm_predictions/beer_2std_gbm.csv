@@ -1,0 +1,229 @@
+name,rating,method,style,flavor,fermentation,split,abv,occurrence,filtration,pasteurization,perception,predict
+2.5 original 2.5,7,industrial,pils,standard,bottom,valid,2.5,enough,filtered,pasteurized,refresh,6.3491385003892455
+affligem double 6.8,6,craft,blonde,standard,top,test,6.8,enough,filtered,pasteurized,too_strong,6.1389606044851925
+aktien original 1857 5.3,7,industrial,lager,standard,bottom,valid,5.3,enough,filtered,pasteurized,tasty,7.297859640604885
+allgauer buble bier helles edelbrau 5.5,8,industrial,blonde,standard,top,train,5.5,enough,filtered,pasteurized,tasty,7.990682423902628
+altenmunster urig wurzig 4.9,5,industrial,lager,herb,bottom,train,4.9,too_few,filtered,pasteurized,tasty,4.861479518398712
+angelo poretti bock chiara 6.5,4,craft,dark,standard,bottom,train,6.5,enough,filtered,pasteurized,too_strong,6.008105386268883
+antoniana marechiaro 5.2,6,industrial,blonde,standard,top,test,5.2,enough,filtered,pasteurized,tasty,7.508840235912659
+antoniana scudata bionda 5.2,7,industrial,blonde,standard,top,train,5.2,enough,filtered,pasteurized,tasty,7.508840235912659
+ariana lager 4.5,7,industrial,lager,standard,bottom,train,4.5,enough,filtered,pasteurized,tasty,6.507565801310422
+ariana radler malina raspberry 0.0,9,industrial,lager,lemon,bottom,train,0.0,enough,filtered,pasteurized,drive,8.014688422672636
+astra kiezmische 2.5,7,industrial,pils,standard,bottom,valid,2.5,enough,filtered,pasteurized,refresh,6.3491385003892455
+astra rotlicht 6.0,6,industrial,pils,standard,bottom,train,6.0,enough,filtered,pasteurized,too_strong,5.976902695884067
+astra urtyp 4.9,8,industrial,pils,standard,bottom,test,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+azuga nepasteurizata 5.5,8,craft,blonde,standard,top,train,5.5,enough,filtered,unpasteurized,tasty,7.990682423902628
+bayreuther hell 4.9,7,craft,blonde,standard,top,train,4.9,enough,filtered,pasteurized,tasty,7.4538208897522535
+beck's blue 0.0,5,industrial,pils,standard,bottom,train,0.0,enough,filtered,pasteurized,drive,6.359757015760126
+beck's gold 4.9,6,industrial,blonde,standard,top,valid,4.9,enough,filtered,pasteurized,tasty,7.4538208897522535
+beck's green lemon 2.5,7,industrial,pils,lemon,bottom,valid,2.5,enough,filtered,pasteurized,refresh,7.581523823481122
+beck's ice lime & mint 2.5,8,industrial,pils,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh,7.581523823481122
+beck's lime 4.9,6,industrial,pils,lemon,bottom,train,4.9,enough,filtered,pasteurized,tasty,6.069683792566368
+beck's red holunder 2.5,7,industrial,pils,fruit,bottom,train,2.5,enough,filtered,pasteurized,refresh,7.066548552206088
+belhaven scottish oat stout deep dark intense ale 7.0,6,craft,dark,standard,bottom,train,7.0,enough,filtered,pasteurized,too_strong,6.008105386268883
+bergenbier blonda 5.0,10,industrial,blonde,standard,top,test,5.0,enough,filtered,pasteurized,tasty,7.417809870961947
+berliner kindl weisse himbeere 3.0,6,industrial,wheat,fruit,top,train,3.0,enough,filtered,pasteurized,weak,6.046588624946027
+berliner kindl weisse original 3.0,6,industrial,wheat,standard,top,test,3.0,enough,filtered,pasteurized,weak,6.1229186404837055
+bernard cerny lezak 5.0,6,industrial,dark,standard,bottom,valid,5.0,enough,filtered,pasteurized,tasty,8.756026029290526
+bitburger pils 0.0,7,industrial,pils,standard,bottom,train,0.0,enough,filtered,pasteurized,drive,6.359757015760126
+bitburger premium kellerbier bernsteinfarben 4.9,6,industrial,keller,standard,bottom,valid,4.9,enough,unfiltered,unpasteurized,tasty,5.855193550744161
+bitburger premium pils 4.8,5,industrial,pils,standard,bottom,test,4.8,enough,filtered,pasteurized,tasty,6.994503806347213
+bitburger radler 0.0,8,industrial,pils,lemon,bottom,train,0.0,enough,filtered,pasteurized,drive,7.518274693184368
+bitburger winterbock helles bockbier 7.0,8,industrial,lager,standard,bottom,valid,7.0,enough,filtered,pasteurized,too_strong,6.025695001577562
+boliarka 4.3,7,industrial,blonde,standard,top,train,4.3,enough,filtered,pasteurized,weak,7.109175988867947
+bolten alt von niederrhein 4.9,5,industrial,alt,standard,top,test,4.9,too_few,filtered,pasteurized,tasty,7.198149894249811
+brauerei konigshof alt 4.8,7,industrial,alt,standard,top,train,4.8,too_few,filtered,pasteurized,tasty,7.421263912694714
+brinkhoff's 5.0,5,industrial,pils,standard,bottom,train,5.0,enough,filtered,pasteurized,tasty,6.6229676369132475
+bucur blonda 5.0,4,craft,blonde,standard,top,valid,5.0,enough,filtered,pasteurized,tasty,7.417809870961947
+bucur bruna 6.5,8,craft,dark,standard,bottom,train,6.5,enough,filtered,pasteurized,too_strong,6.008105386268883
+bundaberg ginger brew 0.0,9,industrial,soda,fruit,top,train,0.0,enough,filtered,pasteurized,drive,8.187622461804724
+camaro bier tequila 5.9,4,industrial,mix,standard,bottom,train,5.9,too_few,filtered,pasteurized,too_strong,4.024629887937637
+capra noastra nr. 1 alba wheat nefiltrata nepasteurizata 6.5,7,craft,wheat,standard,top,test,6.5,enough,unfiltered,unpasteurized,too_strong,6.559670142918778
+capra noastra nr. 2 bruna seara nefiltrata nepasteurizata 6.5,7,craft,dark,standard,bottom,test,6.5,enough,unfiltered,unpasteurized,too_strong,6.008105386268883
+capra noastra nr. 3 vagabonda tripla nefiltrata nepasteurizata 7.5,6,craft,blonde,standard,top,train,7.5,enough,unfiltered,unpasteurized,too_strong,6.1113831125424
+carlsberg elephant strong beer 7.5,8,industrial,dark,standard,bottom,test,7.5,enough,filtered,pasteurized,too_strong,5.980527894326088
+carter's root beer 0.0,6,industrial,soda,herb,top,valid,0.0,too_few,filtered,pasteurized,drive,5.916109206491685
+cazino craft india pale lager nefiltrata 5.2,6,craft,lager,standard,bottom,train,5.2,enough,unfiltered,pasteurized,tasty,7.100267756543191
+cazino craft lager nefiltrata 5.2,6,craft,lager,standard,bottom,valid,5.2,enough,unfiltered,pasteurized,tasty,7.100267756543191
+chiemseer hell 4.8,7,industrial,blonde,standard,top,train,4.8,enough,filtered,pasteurized,tasty,7.6094143101311165
+ciuc premium 5.0,4,industrial,pils,standard,bottom,train,5.0,enough,filtered,pasteurized,tasty,6.6229676369132475
+ciuc weizen nefiltrata 5.3,6,industrial,wheat,standard,top,test,5.3,enough,unfiltered,pasteurized,tasty,6.0943365868681685
+ciucas maltbier 5.1,8,industrial,lager,standard,bottom,train,5.1,enough,filtered,pasteurized,tasty,7.790186565182241
+clausthaler extra herb 0.0,8,industrial,pils,herb,bottom,test,0.0,too_few,filtered,pasteurized,drive,6.559162289240932
+clausthaler naturtrub 0.0,5,industrial,keller,standard,bottom,train,0.0,enough,unfiltered,unpasteurized,drive,5.060446523510338
+clausthaler original 0.0,7,industrial,pils,standard,bottom,valid,0.0,enough,filtered,pasteurized,drive,6.359757015760126
+clausthaler radler 0.0,8,industrial,pils,lemon,bottom,test,0.0,enough,filtered,pasteurized,drive,7.518274693184368
+corvus nefiltrata nepasteurizata 4.5,8,craft,lager,standard,bottom,test,4.5,enough,unfiltered,unpasteurized,tasty,6.507565801310422
+cotta 21 farro blonde ale nonfiltrata nonpastorizzata 5.6,9,craft,blonde,standard,top,train,5.6,enough,unfiltered,unpasteurized,too_strong,8.87809289479833
+crabbies ginger beer raspberry 4.0,10,industrial,soda,fruit,top,train,4.0,enough,filtered,pasteurized,weak,9.92345846617741
+deranj blonda 4.9,6,craft,blonde,standard,top,valid,4.9,enough,filtered,pasteurized,tasty,7.4538208897522535
+desiderata pilsen aromatica 5.0,10,craft,pils,standard,bottom,train,5.0,enough,filtered,pasteurized,tasty,6.6229676369132475
+diebels dimix bier cola 2.9,4,industrial,mix,standard,bottom,train,2.9,too_few,filtered,pasteurized,weak,4.04222550014879
+diebels light 2.9,7,industrial,alt,standard,top,valid,2.9,too_few,filtered,pasteurized,weak,7.208026948488853
+dom kolsch 4.8,9,industrial,wheat,standard,top,valid,4.8,enough,filtered,pasteurized,tasty,6.5178142014649465
+duckstein rotblondes original 4.9,7,industrial,blonde,standard,top,test,4.9,enough,filtered,pasteurized,tasty,7.4538208897522535
+duckstein weizen 5.7,8,industrial,wheat,standard,top,valid,5.7,enough,filtered,pasteurized,too_strong,6.811876017223996
+duff the original beer 4.9,5,industrial,lager,standard,bottom,train,4.9,enough,filtered,pasteurized,tasty,6.477433973037707
+edelweiss hefetrub weissbier 5.3,6,industrial,wheat,standard,top,train,5.3,enough,filtered,pasteurized,tasty,6.0943365868681685
+erdinger grapefruit 0.0,8,industrial,wheat,fruit,top,train,0.0,enough,filtered,pasteurized,drive,7.948558325881324
+erdinger weissbier 5.3,8,industrial,wheat,standard,top,test,5.3,enough,filtered,pasteurized,tasty,6.0943365868681685
+falkenfelser edel mild pemium export 5.4,8,industrial,pils,standard,bottom,test,5.4,enough,filtered,pasteurized,tasty,6.2212373692329965
+falkenfelser festbier marzen 5.6,6,industrial,lager,standard,bottom,train,5.6,enough,filtered,pasteurized,too_strong,6.050789771530846
+falkenfelster radler naturtrub 2.5,8,industrial,keller,lemon,bottom,train,2.5,enough,unfiltered,unpasteurized,refresh,8.075016690391069
+fat rhino india pale ale 4.9,5,industrial,ale,standard,top,train,4.9,enough,filtered,pasteurized,tasty,7.1253458648445775
+fear of the duck india pale ale nefiltrata nepasteurizata 6.0,7,craft,ale,standard,top,test,6.0,enough,unfiltered,unpasteurized,too_strong,6.980349664913094
+feldschlosschen hefeweizen ingwer 4.7,6,industrial,wheat,herb,top,train,4.7,too_few,filtered,pasteurized,tasty,6.148610676800902
+flensburger pilsener 4.8,9,industrial,pils,standard,bottom,valid,4.8,enough,filtered,pasteurized,tasty,6.994503806347213
+frankenheim das aufstiegs-alt 2018 4.8,8,industrial,alt,standard,top,train,4.8,too_few,filtered,pasteurized,tasty,7.421263912694714
+franziskaner weissbier 0.0,6,industrial,wheat,standard,top,test,0.0,enough,filtered,pasteurized,drive,5.999168888769647
+franziskaner weissbier blutorange 0.0,8,industrial,wheat,fruit,top,train,0.0,enough,filtered,pasteurized,drive,7.948558325881324
+franziskaner weissbier holunder 0.0,8,industrial,wheat,fruit,top,train,0.0,enough,filtered,pasteurized,drive,7.948558325881324
+fruh kolsch 4.8,9,industrial,blonde,standard,top,train,4.8,enough,filtered,pasteurized,tasty,7.6094143101311165
+gaffel kolsch 4.8,6,industrial,blonde,standard,top,test,4.8,enough,filtered,pasteurized,tasty,7.6094143101311165
+gaffels fassbrause apfel naturtrub 0.0,9,industrial,soda,fruit,top,train,0.0,enough,unfiltered,unpasteurized,drive,8.187622461804724
+gilde hell 4.8,7,industrial,blonde,standard,top,train,4.8,enough,filtered,pasteurized,tasty,7.6094143101311165
+gilde pilsener 4.9,7,industrial,pils,standard,bottom,train,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+gilde ratskeller premium pils 4.9,8,industrial,pils,standard,bottom,train,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+golden shower blonda ale nefiltrata nepasteurizata 4.5,8,craft,blonde,standard,top,train,4.5,enough,unfiltered,unpasteurized,tasty,7.816182877339318
+gorun nepasteurizata 4.5,9,craft,dark,standard,bottom,train,4.5,enough,filtered,unpasteurized,tasty,8.406504421198635
+gosser natur radler 2.0,10,industrial,keller,lemon,bottom,train,2.0,enough,unfiltered,unpasteurized,refresh,9.850775356435637
+grafensteiner export 5.4,6,industrial,pils,standard,bottom,train,5.4,enough,filtered,pasteurized,tasty,6.2212373692329965
+grevensteiner naturtrubes landbier original 5.2,7,industrial,keller,standard,bottom,test,5.2,enough,unfiltered,unpasteurized,tasty,6.204723424403938
+grevensteiner naturtrubes ur-radler 2.5,8,industrial,keller,lemon,bottom,test,2.5,enough,unfiltered,unpasteurized,refresh,8.075016690391069
+grimbergen double-ambree 6.5,4,craft,ale,standard,top,test,6.5,enough,filtered,pasteurized,too_strong,6.980349664913094
+guiness extra stout 4.1,8,industrial,dark,standard,bottom,train,4.1,enough,filtered,pasteurized,weak,8.037668971739777
+hannen alt 4.8,6,industrial,alt,standard,top,valid,4.8,too_few,filtered,pasteurized,tasty,7.421263912694714
+haramin tripel hop artizanala nefiltrata nepasteurizata 9.5,8,craft,blonde,standard,top,train,9.5,enough,unfiltered,unpasteurized,too_strong,7.953533286623727
+hasen oster-festier 5.8,6,industrial,lager,standard,bottom,train,5.8,enough,filtered,pasteurized,too_strong,6.050789771530846
+hasseroder premium pils 4.9,8,industrial,pils,standard,bottom,train,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+hatherwood red rye captain pale ale 4.2,7,craft,ale,standard,top,valid,4.2,enough,filtered,pasteurized,weak,7.578094516111608
+herrenhauser premium pilsener 4.9,7,industrial,pils,standard,bottom,valid,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+hoegaarden witbier unfiltered orange coriander 4.9,7,industrial,wheat,fruit,top,train,4.9,enough,unfiltered,pasteurized,tasty,7.48123842658447
+hosen hell 5.2,8,industrial,blonde,standard,top,train,5.2,enough,filtered,pasteurized,tasty,7.508840235912659
+ikea ol ljus lager beer 4.7,8,industrial,lager,standard,bottom,train,4.7,enough,filtered,pasteurized,tasty,7.118818597215299
+ikea ol mork dark lager beer 4.7,8,industrial,dark,standard,bottom,train,4.7,enough,filtered,pasteurized,tasty,7.927460946312069
+kamenitza fresh elderberry lemon 2.1,7,industrial,lager,lemon,bottom,train,2.1,enough,filtered,pasteurized,refresh,7.1623366952719625
+kamenitza fresh grapefruit 2.0,8,industrial,lager,fruit,bottom,train,2.0,enough,filtered,pasteurized,refresh,7.92452392252949
+konig ludwig weissbier hell 5.5,9,industrial,wheat,standard,top,test,5.5,enough,filtered,pasteurized,tasty,7.338711367900262
+konig pilsner 0.0,6,industrial,pils,standard,bottom,train,0.0,enough,filtered,pasteurized,drive,6.359757015760126
+konig pilsner radler 2.5,7,industrial,pils,lemon,bottom,valid,2.5,enough,filtered,pasteurized,refresh,7.581523823481122
+konig rotbier premium 5.2,7,industrial,ale,standard,top,test,5.2,enough,filtered,pasteurized,tasty,7.187261173314483
+kostritzer schwarzbier 4.8,7,industrial,dark,standard,bottom,train,4.8,enough,filtered,pasteurized,tasty,7.8442203876859375
+krombacher hell 5.0,6,industrial,blonde,standard,top,train,5.0,enough,filtered,pasteurized,tasty,7.417809870961947
+krombacher naturtrubes dunkel 5.0,9,industrial,dark,standard,bottom,train,5.0,enough,unfiltered,unpasteurized,tasty,8.756026029290526
+krombacher pils 0.0,5,industrial,pils,standard,bottom,train,0.0,enough,filtered,pasteurized,drive,6.359757015760126
+krombacher pils 4.8,7,industrial,pils,standard,bottom,train,4.8,enough,filtered,pasteurized,tasty,6.994503806347213
+krombacher pils brauerreger nr. 4 4.8,7,industrial,pils,standard,bottom,valid,4.8,enough,filtered,pasteurized,tasty,6.994503806347213
+krombacher pils brauerreger nr. 6 4.8,9,industrial,pils,standard,bottom,valid,4.8,enough,filtered,pasteurized,tasty,6.994503806347213
+krombacher radler 0.0,7,industrial,pils,lemon,bottom,train,0.0,enough,filtered,pasteurized,drive,7.518274693184368
+krombacher weizen 0.0,6,industrial,wheat,standard,top,train,0.0,enough,filtered,pasteurized,drive,5.999168888769647
+krombacher's fassbrause holunder 0.0,8,industrial,soda,fruit,top,train,0.0,enough,filtered,pasteurized,drive,8.187622461804724
+krombacher's fassbrause lemon 0.0,8,industrial,soda,lemon,top,test,0.0,enough,filtered,pasteurized,drive,7.997610337437665
+krombacher's fassbrause mango 0.0,9,industrial,soda,fruit,top,test,0.0,enough,filtered,pasteurized,drive,8.187622461804724
+krombacher's fassbrause rhabarber 0.0,9,industrial,soda,fruit,top,train,0.0,enough,filtered,pasteurized,drive,8.187622461804724
+krombacher's fassbrause schwarze johannisbeere 0.0,7,industrial,soda,fruit,top,valid,0.0,enough,filtered,pasteurized,drive,8.187622461804724
+kronenbourg 1664 blanc 5.0,5,industrial,wheat,standard,top,valid,5.0,enough,filtered,pasteurized,tasty,5.248689228132436
+kurva kutuma 3.8,8,craft,ale,standard,top,train,3.8,enough,filtered,pasteurized,weak,7.889059010822395
+landfurst premium export 5.2,5,industrial,lager,standard,bottom,valid,5.2,enough,filtered,pasteurized,tasty,7.100267756543191
+ledenika 4.3,5,industrial,lager,standard,bottom,test,4.3,enough,filtered,pasteurized,weak,6.598520627291012
+leffe ruby 5.0,9,industrial,ale,standard,top,test,5.0,enough,filtered,pasteurized,tasty,7.633381204725312
+lindener spezial 5.1,7,industrial,lager,standard,bottom,test,5.1,enough,filtered,pasteurized,tasty,7.790186565182241
+madonna ambre precieuse 5.0,8,craft,ale,standard,top,train,5.0,enough,filtered,pasteurized,tasty,7.633381204725312
+madonna blanche joyeux 4.8,8,craft,wheat,standard,top,train,4.8,enough,filtered,pasteurized,tasty,6.5178142014649465
+madonna brune delicieuse 5.2,9,craft,dark,standard,bottom,train,5.2,enough,filtered,pasteurized,tasty,8.86439005274065
+madonna orange surprise 4.8,8,craft,wheat,fruit,top,train,4.8,enough,filtered,pasteurized,tasty,7.676168304811883
+maisels weisse 5.1,4,craft,wheat,standard,top,train,5.1,enough,filtered,pasteurized,tasty,5.248689228132436
+mesterul manole premium lager artizanal 6.3,9,craft,lager,standard,bottom,test,6.3,enough,filtered,pasteurized,too_strong,6.009073316747393
+miller genuine draft 4.7,9,craft,lager,standard,bottom,test,4.7,enough,filtered,pasteurized,tasty,7.118818597215299
+monchshof natur radler 0.0,8,industrial,keller,lemon,bottom,train,0.0,enough,unfiltered,unpasteurized,drive,7.9807613886971485
+monchshof naturtrubes 0.0,5,industrial,keller,standard,bottom,train,0.0,enough,unfiltered,unpasteurized,drive,5.060446523510338
+monchshof naturtrubes kellerbier 5.4,7,industrial,keller,standard,bottom,train,5.4,enough,unfiltered,unpasteurized,tasty,7.0279565873299825
+moretti alla siciliana 5.8,9,industrial,lager,standard,bottom,test,5.8,enough,filtered,pasteurized,too_strong,6.050789771530846
+moritz fiege pils 4.9,6,craft,pils,standard,bottom,test,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+mum blonde chrysanthemum craft beer 6.5,6,craft,blonde,herb,top,train,6.5,too_few,filtered,pasteurized,too_strong,5.976598005554707
+nemteana blonda artizanala nefiltrata 5.0,8,craft,blonde,standard,top,train,5.0,enough,unfiltered,pasteurized,tasty,7.417809870961947
+nenea iancu alba wheat nefiltrata 5.5,9,craft,wheat,standard,top,test,5.5,enough,unfiltered,pasteurized,tasty,7.338711367900262
+neumarkter lammsbrau glutenfrei 4.7,6,industrial,blonde,standard,top,train,4.7,enough,filtered,pasteurized,tasty,7.5266862240916925
+oetinger 0.0,8,industrial,pils,standard,bottom,train,0.0,enough,filtered,pasteurized,drive,6.359757015760126
+oettinger beer cola 2.5,8,industrial,mix,standard,bottom,valid,2.5,too_few,filtered,pasteurized,refresh,4.067944869372015
+oettinger bock 6.7,6,industrial,dark,standard,bottom,train,6.7,enough,filtered,pasteurized,too_strong,6.008105386268883
+oettinger helles 4.7,8,industrial,blonde,standard,top,train,4.7,enough,filtered,pasteurized,tasty,7.5266862240916925
+oettinger radler 0.0,7,industrial,lager,lemon,bottom,train,0.0,enough,filtered,pasteurized,drive,8.014688422672636
+oettinger radler 2.5,7,industrial,lager,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh,7.483064950649578
+oettinger urtyp 5.6,6,industrial,lager,standard,bottom,train,5.6,enough,filtered,pasteurized,too_strong,6.050789771530846
+oettinger weizen erdbeere 2.5,7,industrial,wheat,fruit,top,test,2.5,enough,filtered,pasteurized,refresh,7.045921993502136
+one beer later american stout 6.3,6,craft,dark,standard,bottom,train,6.3,enough,filtered,pasteurized,too_strong,6.008105386268883
+oppler pilsner beige label 4.1,4,industrial,pils,standard,bottom,valid,4.1,enough,filtered,pasteurized,weak,6.52964809250466
+ostmark 10.0,9,industrial,blonde,standard,top,valid,10.0,enough,filtered,pasteurized,too_strong,7.953533286623727
+paderborner alt 4.8,7,industrial,alt,standard,top,valid,4.8,too_few,filtered,pasteurized,tasty,7.421263912694714
+paderborner pilger naturtrub 5.0,6,industrial,keller,standard,bottom,train,5.0,enough,unfiltered,unpasteurized,tasty,5.985762315149487
+patronus weissbier 0.0,8,industrial,wheat,standard,top,test,0.0,enough,filtered,pasteurized,drive,5.999168888769647
+patronus weissbier 5.5,7,industrial,wheat,standard,top,train,5.5,enough,filtered,pasteurized,tasty,7.338711367900262
+patronus weissbier-radler weizen mix grapefruit 2.5,9,industrial,wheat,lemon,top,train,2.5,enough,filtered,pasteurized,refresh,8.887816441407496
+paulaner hefe-weissbier 0.0,7,industrial,wheat,standard,top,test,0.0,enough,filtered,pasteurized,drive,5.999168888769647
+paulaner munchner hell 4.9,7,industrial,blonde,standard,top,train,4.9,enough,filtered,pasteurized,tasty,7.4538208897522535
+paulaner weissbier-zitrone 0.0,9,industrial,wheat,lemon,top,valid,0.0,enough,filtered,pasteurized,drive,8.811544496728176
+perlenbacher alt 4.9,7,industrial,alt,standard,top,train,4.9,too_few,filtered,pasteurized,tasty,7.198149894249811
+perlenbacher radler 2.5,8,industrial,lager,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh,7.483064950649578
+pirinsko radler 2.0,7,industrial,pils,lemon,bottom,valid,2.0,enough,filtered,pasteurized,refresh,7.5804320231711735
+pott's landbier 4.8,8,industrial,lager,standard,bottom,test,4.8,enough,filtered,pasteurized,tasty,6.994747626640903
+premium pils bier 4.9,8,industrial,pils,standard,bottom,train,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+reissdorf kolsch 4.8,9,industrial,blonde,standard,top,valid,4.8,enough,filtered,pasteurized,tasty,7.6094143101311165
+san miguel original lager beer premium especial 5.4,8,industrial,lager,standard,bottom,train,5.4,enough,filtered,pasteurized,tasty,8.116008236002246
+sapte coline neagra nefiltrata 6.5,8,craft,dark,standard,bottom,test,6.5,enough,unfiltered,pasteurized,too_strong,6.008105386268883
+sapte coline pils nefiltrata 4.75,8,craft,pils,standard,bottom,train,4.75,enough,unfiltered,pasteurized,tasty,6.994503806347213
+sapte coline triplu h nefiltrata 4.75,7,craft,pils,standard,bottom,valid,4.75,enough,unfiltered,pasteurized,tasty,6.994503806347213
+schloss edel milder biergenuss 4.9,7,industrial,blonde,standard,top,valid,4.9,enough,filtered,pasteurized,tasty,7.4538208897522535
+schloss export fein wurzig 5.2,7,industrial,pils,herb,bottom,train,5.2,too_few,filtered,pasteurized,tasty,6.8744963946103335
+schloss pilsener 4.9,6,industrial,pils,standard,bottom,train,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+schloss radler 2.5,7,industrial,pils,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh,7.581523823481122
+schneider weisse tap6 8.2,7,industrial,wheat,standard,top,train,8.2,enough,filtered,pasteurized,too_strong,7.021161137878384
+schofferhofer grapefruit 2.5,8,industrial,wheat,fruit,top,train,2.5,enough,filtered,pasteurized,refresh,7.045921993502136
+schofferhofer grapefruit weizen-mix 0.0,7,industrial,wheat,fruit,top,valid,0.0,enough,filtered,pasteurized,drive,7.948558325881324
+schofferhofer grapefruit weizen-mix 2.5,7,industrial,wheat,fruit,top,train,2.5,enough,filtered,pasteurized,refresh,7.045921993502136
+schofferhofer kaktus feige 2.5,6,industrial,wheat,fruit,top,train,2.5,enough,filtered,pasteurized,refresh,7.045921993502136
+schofferhofer maracuja 2.5,6,industrial,wheat,fruit,top,valid,2.5,enough,filtered,pasteurized,refresh,7.045921993502136
+schwechater lager 5.0,9,industrial,lager,standard,bottom,train,5.0,enough,filtered,pasteurized,tasty,7.944564529973151
+sikaru english india pale ale roscata nefiltrata nepasteurizata 5.2,7,craft,ale,standard,top,train,5.2,enough,unfiltered,unpasteurized,tasty,7.187261173314483
+sion kolsch 4.8,10,industrial,blonde,standard,top,train,4.8,enough,filtered,pasteurized,tasty,7.6094143101311165
+sol 4.5,4,industrial,lager,standard,bottom,train,4.5,enough,filtered,pasteurized,tasty,6.507565801310422
+solotoye lagerbier 5.5,4,industrial,lager,standard,bottom,test,5.5,enough,filtered,pasteurized,tasty,8.405662994761089
+statement mad red bastard red ale 5.9,10,craft,ale,standard,top,valid,5.9,enough,filtered,pasteurized,too_strong,6.980349664913094
+statement session pale ale 4.9,9,craft,ale,standard,top,train,4.9,enough,filtered,pasteurized,tasty,7.1253458648445775
+steam brew india pale ale radler 3.7,9,craft,ale,lemon,top,train,3.7,enough,filtered,pasteurized,weak,8.990275814243663
+stephans brau naturtrub hefe weizen 5.4,7,industrial,wheat,standard,top,test,5.4,enough,unfiltered,unpasteurized,tasty,7.24878474043567
+stolichno pale ale 5.5,4,industrial,ale,standard,top,valid,5.5,enough,filtered,pasteurized,tasty,7.858765717379585
+stortebeker baltik-lager 5.5,9,industrial,lager,standard,bottom,train,5.5,enough,filtered,pasteurized,tasty,8.405662994761089
+stortebeker bernstein-weizen 5.3,6,industrial,wheat,standard,top,train,5.3,enough,filtered,pasteurized,tasty,6.0943365868681685
+stortebeker kellerbier 1402 4.8,6,industrial,keller,standard,bottom,train,4.8,enough,unfiltered,unpasteurized,tasty,6.050123428971577
+stortebeker pilsener-bier 4.9,6,industrial,pils,standard,bottom,test,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+terapia citrin india pale ale nefiltrata 6.0,7,craft,ale,standard,top,train,6.0,enough,unfiltered,pasteurized,too_strong,6.980349664913094
+terapia gold blonda nefiltrata 4.7,7,craft,blonde,standard,top,valid,4.7,enough,unfiltered,pasteurized,tasty,7.5266862240916925
+terapia rubin amber ale nefiltrata 6.0,6,craft,ale,standard,top,valid,6.0,enough,unfiltered,pasteurized,too_strong,6.980349664913094
+th. konig zwickl naturbelassenes kellerbier 5.3,7,industrial,keller,standard,bottom,test,5.3,enough,unfiltered,unpasteurized,tasty,6.204723424403938
+timisoreana original 5.0,8,industrial,blonde,standard,top,train,5.0,enough,filtered,pasteurized,tasty,7.417809870961947
+tip pilsener brauart 4.9,5,industrial,pils,standard,bottom,train,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+tyskie gronie 5.2,8,industrial,lager,standard,bottom,train,5.2,enough,filtered,pasteurized,tasty,7.100267756543191
+tyskie radler 2.0,9,industrial,lager,lemon,bottom,valid,2.0,enough,filtered,pasteurized,refresh,7.726025818616338
+urbis golden ale belgian tripel nefiltrata nepasteurizata 6.0,6,craft,blonde,standard,top,train,6.0,enough,unfiltered,unpasteurized,too_strong,6.121821360591867
+ursus cooler lemon 0.0,8,industrial,blonde,lemon,top,train,0.0,enough,filtered,pasteurized,drive,8.012395462423457
+ursus retro nepasteurizata 5.3,7,industrial,blonde,standard,top,valid,5.3,enough,filtered,unpasteurized,tasty,7.807295849577942
+val-dieu biere de noel 7.0,8,craft,ale,standard,top,test,7.0,enough,filtered,pasteurized,too_strong,6.980349664913094
+vedett india pale ale 5.5,7,craft,ale,standard,top,test,5.5,enough,filtered,pasteurized,tasty,7.858765717379585
+veltins fassbrause holunder 0.0,6,industrial,soda,fruit,top,train,0.0,enough,filtered,pasteurized,drive,8.187622461804724
+veltins fassbrause zitrone 0.0,8,industrial,soda,lemon,top,train,0.0,enough,filtered,pasteurized,drive,7.997610337437665
+veltins pilsener 4.8,7,industrial,pils,standard,bottom,train,4.8,enough,filtered,pasteurized,tasty,6.994503806347213
+veltins radler 2.4,8,industrial,pils,lemon,bottom,train,2.4,enough,filtered,pasteurized,refresh,7.581523823481122
+warka strong 6.5,10,industrial,dark,standard,bottom,valid,6.5,enough,filtered,pasteurized,too_strong,6.008105386268883
+warsteiner 0.0,7,industrial,pils,standard,bottom,train,0.0,enough,filtered,pasteurized,drive,6.359757015760126
+warsteiner herb 0.0,8,industrial,pils,herb,bottom,test,0.0,too_few,filtered,pasteurized,drive,6.559162289240932
+warsteiner radler 2.5,8,industrial,pils,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh,7.581523823481122
+weltenburger kloster pils 4.9,4,industrial,pils,standard,bottom,valid,4.9,enough,filtered,pasteurized,tasty,6.954770760612747
+wickuler radler 2.4,7,industrial,pils,lemon,bottom,train,2.4,enough,filtered,pasteurized,refresh,7.581523823481122
+wolfscraft das helle! 4.9,7,craft,blonde,standard,top,train,4.9,enough,filtered,pasteurized,tasty,7.4538208897522535
+wolfscraft frisch pils 5.2,6,craft,pils,standard,bottom,train,5.2,enough,filtered,pasteurized,tasty,6.094270620293402
+wolfscraft viel weizen 5.4,8,craft,wheat,standard,top,train,5.4,enough,filtered,pasteurized,tasty,7.24878474043567
+zaganu hop hooligans india pale lager nefiltrata 6.0,8,craft,lager,standard,bottom,test,6.0,enough,unfiltered,pasteurized,too_strong,6.009073316747393
+zaganu rosie artizanala nefiltrata nepasteurizata 7.0,7,craft,ale,standard,top,train,7.0,enough,unfiltered,unpasteurized,too_strong,6.980349664913094
+zagorka 0.0,8,industrial,lager,standard,bottom,train,0.0,enough,filtered,pasteurized,drive,7.6238492974391665
+zagorka retro unpasteurized 4.5,7,industrial,lager,standard,bottom,train,4.5,enough,filtered,unpasteurized,tasty,6.507565801310422

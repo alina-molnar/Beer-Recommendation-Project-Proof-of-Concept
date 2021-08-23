@@ -1,0 +1,31 @@
+name,rating,method,style,flavor,fermentation,split,abv,occurrence,filtration,pasteurization,perception
+2.5 original 2.5,7,industrial,pils,standard,bottom,valid,2.5,enough,filtered,pasteurized,refresh
+astra kiezmische 2.5,7,industrial,pils,standard,bottom,valid,2.5,enough,filtered,pasteurized,refresh
+beck's green lemon 2.5,7,industrial,pils,lemon,bottom,valid,2.5,enough,filtered,pasteurized,refresh
+beck's ice lime & mint 2.5,8,industrial,pils,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh
+beck's red holunder 2.5,7,industrial,pils,fruit,bottom,train,2.5,enough,filtered,pasteurized,refresh
+berliner kindl weisse himbeere 3.0,6,industrial,wheat,fruit,top,train,3.0,enough,filtered,pasteurized,weak
+berliner kindl weisse original 3.0,6,industrial,wheat,standard,top,test,3.0,enough,filtered,pasteurized,weak
+diebels dimix bier cola 2.9,4,industrial,mix,standard,bottom,train,2.9,too_few,filtered,pasteurized,weak
+diebels light 2.9,7,industrial,alt,standard,top,valid,2.9,too_few,filtered,pasteurized,weak
+falkenfelster radler naturtrub 2.5,8,industrial,keller,lemon,bottom,train,2.5,enough,unfiltered,unpasteurized,refresh
+gosser natur radler 2.0,10,industrial,keller,lemon,bottom,train,2.0,enough,unfiltered,unpasteurized,refresh
+grevensteiner naturtrubes ur-radler 2.5,8,industrial,keller,lemon,bottom,test,2.5,enough,unfiltered,unpasteurized,refresh
+kamenitza fresh elderberry lemon 2.1,7,industrial,lager,lemon,bottom,train,2.1,enough,filtered,pasteurized,refresh
+kamenitza fresh grapefruit 2.0,8,industrial,lager,fruit,bottom,train,2.0,enough,filtered,pasteurized,refresh
+konig pilsner radler 2.5,7,industrial,pils,lemon,bottom,valid,2.5,enough,filtered,pasteurized,refresh
+oettinger beer cola 2.5,8,industrial,mix,standard,bottom,valid,2.5,too_few,filtered,pasteurized,refresh
+oettinger radler 2.5,7,industrial,lager,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh
+oettinger weizen erdbeere 2.5,7,industrial,wheat,fruit,top,test,2.5,enough,filtered,pasteurized,refresh
+patronus weissbier-radler weizen mix grapefruit 2.5,9,industrial,wheat,lemon,top,train,2.5,enough,filtered,pasteurized,refresh
+perlenbacher radler 2.5,8,industrial,lager,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh
+pirinsko radler 2.0,7,industrial,pils,lemon,bottom,valid,2.0,enough,filtered,pasteurized,refresh
+schloss radler 2.5,7,industrial,pils,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh
+schofferhofer grapefruit 2.5,8,industrial,wheat,fruit,top,train,2.5,enough,filtered,pasteurized,refresh
+schofferhofer grapefruit weizen-mix 2.5,7,industrial,wheat,fruit,top,train,2.5,enough,filtered,pasteurized,refresh
+schofferhofer kaktus feige 2.5,6,industrial,wheat,fruit,top,train,2.5,enough,filtered,pasteurized,refresh
+schofferhofer maracuja 2.5,6,industrial,wheat,fruit,top,valid,2.5,enough,filtered,pasteurized,refresh
+tyskie radler 2.0,9,industrial,lager,lemon,bottom,valid,2.0,enough,filtered,pasteurized,refresh
+veltins radler 2.4,8,industrial,pils,lemon,bottom,train,2.4,enough,filtered,pasteurized,refresh
+warsteiner radler 2.5,8,industrial,pils,lemon,bottom,train,2.5,enough,filtered,pasteurized,refresh
+wickuler radler 2.4,7,industrial,pils,lemon,bottom,train,2.4,enough,filtered,pasteurized,refresh

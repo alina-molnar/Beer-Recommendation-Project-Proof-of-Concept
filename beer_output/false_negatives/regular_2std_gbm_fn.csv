@@ -1,0 +1,10 @@
+name,rating,method,style,flavor,fermentation,split,abv,occurrence,filtration,pasteurization,perception,predict
+angelo poretti bock chiara 6.5,4,craft,dark,standard,bottom,train,6.5,enough,filtered,pasteurized,too_strong,6.0087012717039725
+bucur blonda 5.0,4,craft,blonde,standard,top,valid,5.0,enough,filtered,pasteurized,tasty,7.389854150447677
+ciuc premium 5.0,4,industrial,pils,standard,bottom,train,5.0,enough,filtered,pasteurized,tasty,6.491524079180597
+grimbergen double-ambree 6.5,4,craft,ale,standard,top,test,6.5,enough,filtered,pasteurized,too_strong,6.973538265569874
+oppler pilsner beige label 4.1,4,industrial,pils,standard,bottom,valid,4.1,enough,filtered,pasteurized,weak,6.2336783126292685
+sol 4.5,4,industrial,lager,standard,bottom,train,4.5,enough,filtered,pasteurized,tasty,5.740327959071653
+solotoye lagerbier 5.5,4,industrial,lager,standard,bottom,test,5.5,enough,filtered,pasteurized,tasty,8.747081031883642
+stolichno pale ale 5.5,4,industrial,ale,standard,top,valid,5.5,enough,filtered,pasteurized,tasty,7.962264684733743
+weltenburger kloster pils 4.9,4,industrial,pils,standard,bottom,valid,4.9,enough,filtered,pasteurized,tasty,6.847743236524326

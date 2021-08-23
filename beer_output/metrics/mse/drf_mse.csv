@@ -1,0 +1,9 @@
+model_name,mse
+alc_free_2std_drf,1.1186275777361125
+alc_free_all_drf,1.4519466559853824
+beer_2std_drf,2.621285622569093
+beer_all_drf,4.084903393650056
+light_2std_drf,0.1794592576627377
+light_all_drf,0.1794592576627377
+regular_2std_drf,3.014458257904854
+regular_all_drf,4.527368450945648

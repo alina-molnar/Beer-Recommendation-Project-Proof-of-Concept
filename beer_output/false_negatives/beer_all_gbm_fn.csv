@@ -1,0 +1,15 @@
+name,rating,method,style,flavor,fermentation,split,abv,occurrence,filtration,pasteurization,perception,predict
+crabbies original alcoholic ginger beer 4.0,-1,industrial,soda,herb,top,valid,4.0,too_few,filtered,pasteurized,weak,8.974432162487775
+gaffels fassbrause orange 0.0,3,industrial,soda,fruit,top,train,0.0,enough,filtered,pasteurized,drive,7.399411360586075
+landfurst premium pils 4.8,3,industrial,pils,standard,bottom,test,4.8,enough,filtered,pasteurized,tasty,6.965600300505887
+red revolution nepasteurizata 5.0,3,craft,ale,standard,top,train,5.0,enough,filtered,unpasteurized,tasty,6.067055310979615
+weihenstephaner hefe weissbier bavarian style 5.4,3,industrial,wheat,standard,top,train,5.4,enough,filtered,pasteurized,tasty,5.737651658970409
+oppler pilsner beige label 4.1,4,industrial,pils,standard,bottom,valid,4.1,enough,filtered,pasteurized,weak,6.903461784166414
+sol 4.5,4,industrial,lager,standard,bottom,train,4.5,enough,filtered,pasteurized,tasty,6.507856801630826
+weltenburger kloster pils 4.9,4,industrial,pils,standard,bottom,valid,4.9,enough,filtered,pasteurized,tasty,6.914319329820702
+bucur blonda 5.0,4,craft,blonde,standard,top,valid,5.0,enough,filtered,pasteurized,tasty,7.32678728118319
+ciuc premium 5.0,4,industrial,pils,standard,bottom,train,5.0,enough,filtered,pasteurized,tasty,6.516843402334619
+maisels weisse 5.1,4,craft,wheat,standard,top,train,5.1,enough,filtered,pasteurized,tasty,5.45578759880866
+solotoye lagerbier 5.5,4,industrial,lager,standard,bottom,test,5.5,enough,filtered,pasteurized,tasty,8.212551792514407
+stolichno pale ale 5.5,4,industrial,ale,standard,top,valid,5.5,enough,filtered,pasteurized,tasty,6.989930126275997
+angelo poretti bock chiara 6.5,4,craft,dark,standard,bottom,train,6.5,enough,filtered,pasteurized,too_strong,5.948061792309293

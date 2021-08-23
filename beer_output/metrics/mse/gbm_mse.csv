@@ -1,0 +1,9 @@
+model_name,mse
+alc_free_2std_gbm,0.7941619725843323
+alc_free_all_gbm,1.1079106525080873
+beer_2std_gbm,2.49933809661109
+beer_all_gbm,4.144005652278487
+light_2std_gbm,2.2187622569127835e-05
+light_all_gbm,2.2187622569127835e-05
+regular_2std_gbm,3.079163175187129
+regular_all_gbm,4.889677112147383

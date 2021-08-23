@@ -1,0 +1,17 @@
+model_name,recall
+alc_free_2std_drf,
+alc_free_all_drf,0.6666666666666666
+beer_2std_drf,0.25
+beer_all_drf,0.43478260869565216
+light_2std_drf,1.0
+light_all_drf,1.0
+regular_2std_drf,0.18181818181818182
+regular_all_drf,0.42105263157894735
+alc_free_2std_gbm,
+alc_free_all_gbm,0.6666666666666666
+beer_2std_gbm,0.16666666666666666
+beer_all_gbm,0.391304347826087
+light_2std_gbm,1.0
+light_all_gbm,1.0
+regular_2std_gbm,0.18181818181818182
+regular_all_gbm,0.42105263157894735

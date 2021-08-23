@@ -1,0 +1,42 @@
+name,rating,method,style,flavor,fermentation,split,abv,occurrence,filtration,pasteurization,perception,predict
+ariana radler malina raspberry 0.0,9,industrial,lager,lemon,bottom,train,0,enough,filtered,pasteurized,drive,7.990917210882928
+beck's blue 0.0,5,industrial,pils,standard,bottom,train,0,enough,filtered,pasteurized,drive,6.3349149764773225
+bitburger pils 0.0,7,industrial,pils,standard,bottom,train,0,enough,filtered,pasteurized,drive,6.3349149764773225
+bitburger radler 0.0,8,industrial,pils,lemon,bottom,train,0,enough,filtered,pasteurized,drive,7.497221352366197
+bundaberg ginger brew 0.0,9,industrial,soda,fruit,top,train,0,enough,filtered,pasteurized,drive,7.336278286829058
+carter's root beer 0.0,6,industrial,soda,herb,top,valid,0,too_few,filtered,pasteurized,drive,7.336278286829058
+clausthaler extra herb 0.0,8,industrial,pils,herb,bottom,test,0,too_few,filtered,pasteurized,drive,7.336278286829058
+clausthaler naturtrub 0.0,5,industrial,keller,standard,bottom,train,0,enough,unfiltered,unpasteurized,drive,5.007684676043157
+clausthaler original 0.0,7,industrial,pils,standard,bottom,valid,0,enough,filtered,pasteurized,drive,6.3349149764773225
+clausthaler radler 0.0,8,industrial,pils,lemon,bottom,test,0,enough,filtered,pasteurized,drive,7.497221352366197
+erdinger grapefruit 0.0,8,industrial,wheat,fruit,top,train,0,enough,filtered,pasteurized,drive,7.990917210882928
+franziskaner weissbier 0.0,6,industrial,wheat,standard,top,test,0,enough,filtered,pasteurized,drive,6.0065081785516155
+franziskaner weissbier blutorange 0.0,8,industrial,wheat,fruit,top,train,0,enough,filtered,pasteurized,drive,7.990917210882928
+franziskaner weissbier holunder 0.0,8,industrial,wheat,fruit,top,train,0,enough,filtered,pasteurized,drive,7.990917210882928
+gaffels fassbrause apfel naturtrub 0.0,9,industrial,soda,fruit,top,train,0,enough,unfiltered,unpasteurized,drive,7.336278286829058
+gaffels fassbrause orange 0.0,3,industrial,soda,fruit,top,train,0,enough,filtered,pasteurized,drive,7.336278286829058
+karamalz 0.0,3,industrial,lager,standard,bottom,train,0,enough,filtered,pasteurized,drive,4.6800130078419375
+konig pilsner 0.0,6,industrial,pils,standard,bottom,train,0,enough,filtered,pasteurized,drive,6.3349149764773225
+krombacher pils 0.0,5,industrial,pils,standard,bottom,train,0,enough,filtered,pasteurized,drive,6.3349149764773225
+krombacher radler 0.0,7,industrial,pils,lemon,bottom,train,0,enough,filtered,pasteurized,drive,7.497221352366197
+krombacher weizen 0.0,6,industrial,wheat,standard,top,train,0,enough,filtered,pasteurized,drive,6.0065081785516155
+krombacher's fassbrause holunder 0.0,8,industrial,soda,fruit,top,train,0,enough,filtered,pasteurized,drive,7.336278286829058
+krombacher's fassbrause lemon 0.0,8,industrial,soda,lemon,top,test,0,enough,filtered,pasteurized,drive,7.980052826061312
+krombacher's fassbrause mango 0.0,9,industrial,soda,fruit,top,test,0,enough,filtered,pasteurized,drive,7.336278286829058
+krombacher's fassbrause rhabarber 0.0,9,industrial,soda,fruit,top,train,0,enough,filtered,pasteurized,drive,7.336278286829058
+krombacher's fassbrause schwarze johannisbeere 0.0,7,industrial,soda,fruit,top,valid,0,enough,filtered,pasteurized,drive,7.336278286829058
+monchshof natur radler 0.0,8,industrial,keller,lemon,bottom,train,0,enough,unfiltered,unpasteurized,drive,7.990917210882928
+monchshof naturtrubes 0.0,5,industrial,keller,standard,bottom,train,0,enough,unfiltered,unpasteurized,drive,5.007684676043157
+oetinger 0.0,8,industrial,pils,standard,bottom,train,0,enough,filtered,pasteurized,drive,6.3349149764773225
+oettinger radler 0.0,7,industrial,lager,lemon,bottom,train,0,enough,filtered,pasteurized,drive,7.990917210882928
+paderborner malz 0.0,3,industrial,lager,standard,bottom,train,0,enough,filtered,pasteurized,drive,4.6800130078419375
+patronus weissbier 0.0,8,industrial,wheat,standard,top,test,0,enough,filtered,pasteurized,drive,6.0065081785516155
+paulaner hefe-weissbier 0.0,7,industrial,wheat,standard,top,test,0,enough,filtered,pasteurized,drive,6.0065081785516155
+paulaner weissbier-zitrone 0.0,9,industrial,wheat,lemon,top,valid,0,enough,filtered,pasteurized,drive,7.990917210882928
+schofferhofer grapefruit weizen-mix 0.0,7,industrial,wheat,fruit,top,valid,0,enough,filtered,pasteurized,drive,7.990917210882928
+ursus cooler lemon 0.0,8,industrial,blonde,lemon,top,train,0,enough,filtered,pasteurized,drive,7.990917210882928
+veltins fassbrause holunder 0.0,6,industrial,soda,fruit,top,train,0,enough,filtered,pasteurized,drive,7.336278286829058
+veltins fassbrause zitrone 0.0,8,industrial,soda,lemon,top,train,0,enough,filtered,pasteurized,drive,7.980052826061312
+warsteiner 0.0,7,industrial,pils,standard,bottom,train,0,enough,filtered,pasteurized,drive,6.3349149764773225
+warsteiner herb 0.0,8,industrial,pils,herb,bottom,test,0,too_few,filtered,pasteurized,drive,7.336278286829058
+zagorka 0.0,8,industrial,lager,standard,bottom,train,0,enough,filtered,pasteurized,drive,4.6800130078419375
