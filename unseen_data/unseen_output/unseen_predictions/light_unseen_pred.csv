@@ -1,0 +1,10 @@
+name,rating,method,style,flavor,fermentation,country,split,abv,pasteurization,predict
+krombacher radler 2.5,7,industrial,pils,lemon,bottom,germany,test,2.5,pasteurized,7.716666603088379
+monchshof natur radler 2.5,8,industrial,keller,lemon,bottom,germany,test,2.5,unpasteurized,8.376666660308837
+oettinger leicht 2.8,7,industrial,lager,standard,bottom,germany,test,2.8,pasteurized,4.62
+oettinger weizen grapefruit 2.5,6,industrial,wheat,fruit,top,germany,test,2.5,pasteurized,7.11
+perlenbacher extra herbes 2.5,7,industrial,lager,herb,bottom,germany,test,2.5,pasteurized,7.5
+schofferhofer granatapfel guarana 2.5,7,industrial,wheat,fruit,top,germany,test,2.5,pasteurized,7.11
+schofferhofer zitrone weizen-mix 2.5,9,industrial,wheat,lemon,top,germany,test,2.5,pasteurized,8.323333330154421
+veltins grapefruit zitrone 2.0,7,industrial,pils,lemon,bottom,germany,test,2.0,pasteurized,7.95
+veltins lemon grapefruit 2.7,8,industrial,pils,lemon,bottom,germany,test,2.7,pasteurized,7.716666603088379

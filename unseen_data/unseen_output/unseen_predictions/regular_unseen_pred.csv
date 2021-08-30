@@ -1,0 +1,60 @@
+name,rating,method,style,flavor,fermentation,country,split,abv,pasteurization,predict
+altenmunster hopfig herb 4.9,9.0,industrial,lager,herb,bottom,germany,test,4.9,pasteurized,5.36
+arrogant nepasteurizata india pale ale 6.0,3.0,craft,ale,standard,top,romania,test,6.0,unpasteurized,5.74
+beck's 1873 pils traditionell frisch 6.0,8.0,industrial,pils,standard,bottom,germany,test,6.0,pasteurized,5.4
+benediktiner hell 5.0,8.0,industrial,blonde,standard,top,germany,test,5.0,pasteurized,7.2666666984558095
+bereta brewing community happy lager 5.1,7.0,craft,lager,standard,bottom,romania,test,5.1,pasteurized,7.78
+bergenbier ale 5.5,8.0,industrial,ale,standard,top,romania,test,5.5,pasteurized,7.5
+citrilla weizen india pale ale 6.0,7.0,craft,ale,standard,top,germany,test,6.0,pasteurized,5.26
+deranj oranj wheat ale nepasteurizata 5.0,4.0,craft,ale,standard,top,romania,test,5.0,unpasteurized,4.72
+falkenfelser premium winterbier 5.6,8.0,industrial,lager,standard,bottom,germany,test,5.6,pasteurized,6.32
+falkenfelster weissbier 5.2,7.0,industrial,wheat,standard,top,germany,test,5.2,pasteurized,5.52
+frankenheim der feine unterschied 4.8,7.0,industrial,alt,standard,top,germany,test,4.8,pasteurized,7.443333330154419
+franziskaner premium weissbier dunkel 5.0,8.0,industrial,dark,standard,bottom,germany,test,5.0,pasteurized,8.43666666984558
+gauloise christmas bocq 8.1,9.0,craft,lager,standard,bottom,belgium,test,8.1,pasteurized,4.92
+grimbergen blonde 6.7,7.0,industrial,blonde,standard,top,germany,test,6.7,pasteurized,3.44
+hansa pils 4.8,6.0,industrial,pils,standard,bottom,germany,test,4.8,pasteurized,7.041000003814697
+haramin belgian india pale ale 5.5,8.0,craft,ale,standard,top,belgium,test,5.5,pasteurized,7.5
+hora unirii 5.0,8.0,craft,lager,standard,bottom,romania,test,5.0,pasteurized,8.26
+indigen blonda nepasteurizata 4.5,7.0,craft,blonde,standard,top,romania,test,4.5,unpasteurized,7.83
+kilkenny irish red ale 4.2,9.0,industrial,ale,standard,top,ireland,test,4.2,pasteurized,7.47
+kozel dark 3.8,6.0,industrial,dark,standard,bottom,czechia,test,3.8,pasteurized,8.18
+kozel premium lager 4.6,7.0,industrial,lager,standard,bottom,czechia,test,4.6,pasteurized,6.77
+krombacher naturtrubes landbier 5.2,9.0,industrial,pils,standard,bottom,germany,test,5.2,unpasteurized,6.093333330154419
+krombacher pils brauerreger nr. 2 4.8,8.0,industrial,pils,standard,bottom,germany,test,4.8,pasteurized,7.041000003814697
+kulmbacher kapuziner hefe weissbier naturtrub 5.4,8.0,industrial,wheat,standard,top,germany,test,5.4,unpasteurized,5.45
+kurpfalz brau kellerbier 4.8,6.0,industrial,keller,standard,bottom,germany,test,4.8,unpasteurized,6.24
+landfurst premium alt 4.8,6.0,industrial,alt,standard,top,germany,test,4.8,pasteurized,7.443333330154419
+lomza pilsener 5.7,-1.0,industrial,pils,standard,bottom,poland,test,5.7,pasteurized,6.18
+lowenbrau original 5.2,5.0,industrial,lager,standard,bottom,germany,test,5.2,pasteurized,7.38
+natu hell natur uber alles 4.5,10.0,craft,blonde,standard,top,germany,test,4.5,unpasteurized,7.83
+nemteana aramie nefiltrata 6.4,8.0,craft,ale,standard,top,romania,test,6.4,pasteurized,3.06
+n'ice chouffe belgian winterbeer 10.0,9.0,craft,dark,standard,bottom,belgium,test,10.0,pasteurized,6.82
+oettinger alt 4.9,7.0,industrial,alt,standard,top,germany,test,4.9,pasteurized,6.9880000019073485
+oettinger export 5.4,7.0,industrial,lager,standard,bottom,germany,test,5.4,pasteurized,7.87
+oettinger hefeweissbier naturtrub 4.9,6.0,industrial,wheat,standard,top,germany,test,4.9,unpasteurized,5.56
+one beer later american amber ale nefiltrata nepasteurizata 5.0,6.0,craft,ale,standard,top,romania,test,5.0,unpasteurized,4.72
+oppler pilsner red label 4.1,9.0,industrial,pils,standard,bottom,czechia,test,4.1,pasteurized,7.13
+"original 5,0 5.0",4.0,industrial,pils,standard,bottom,germany,test,5.0,pasteurized,6.230000047683716
+paulaner hefe-weissbier dunkel 5.3,7.0,industrial,dark,standard,bottom,germany,test,5.3,pasteurized,8.68
+pilsner urquell original pilsner bier 4.4,4.0,industrial,pils,standard,bottom,czechia,test,4.4,pasteurized,6.4
+prost! pils 5.0,6.5,industrial,pils,standard,bottom,germany,test,5.0,pasteurized,6.230000047683716
+sapte coline marzen nefiltrata 5.75,4.0,craft,lager,standard,bottom,romania,test,5.75,pasteurized,6.16
+schofferhofer hefeweizen naturtrub 5.0,7.5,industrial,wheat,standard,top,germany,test,5.0,unpasteurized,4.57
+sester kolsch 4.8,5.0,industrial,blonde,standard,top,germany,test,4.8,pasteurized,8.021666669845581
+silva lager negru premium 7.0,6.0,craft,lager,standard,bottom,romania,test,7.0,pasteurized,4.66
+steam brew session india pale ale 4.9,6.0,craft,ale,standard,top,germany,test,4.9,pasteurized,7.22
+stephans brau premium export 5.2,7.0,industrial,pils,standard,bottom,germany,test,5.2,pasteurized,6.196666669845581
+stephans brau premium pils 4.9,7.0,industrial,pils,standard,bottom,germany,test,4.9,pasteurized,6.987666673660279
+stolichno bock 6.5,9.5,industrial,lager,standard,bottom,bulgaria,test,6.5,pasteurized,3.48
+stortebeker atlantik-ale 5.1,5.0,industrial,ale,standard,top,germany,test,5.1,pasteurized,7.426666669845581
+stortebeker hanse-porter 4.0,8.0,industrial,pils,standard,bottom,germany,test,4.0,pasteurized,7.13
+three happy brewers balkan breakfast coffee oatmeal stout 7.0,8.5,craft,dark,standard,bottom,romania,test,7.0,pasteurized,6.16
+timisoreana nepasteurizata 5.0,8.0,industrial,lager,standard,bottom,romania,test,5.0,unpasteurized,6.84
+turmbrau original premium pils 4.9,5.0,industrial,pils,standard,bottom,germany,test,4.9,pasteurized,6.987666673660279
+veltins curuba tequila 5.0,3.0,industrial,mix,standard,bottom,germany,test,5.0,pasteurized,2.92
+warsteiner 4.8,6.5,industrial,pils,standard,bottom,germany,test,4.8,pasteurized,7.041000003814697
+warsteiner weihnacht 5.6,6.0,industrial,pils,standard,bottom,germany,test,5.6,pasteurized,6.18
+zaganu blonda nepasteurizata 5.3,8.0,craft,blonde,standard,top,romania,test,5.3,unpasteurized,7.94
+zagorka 4.5,6.0,industrial,lager,standard,bottom,bulgaria,test,4.5,pasteurized,5.88
+zywiec 5.6,8.0,industrial,lager,standard,bottom,poland,test,5.6,pasteurized,6.32

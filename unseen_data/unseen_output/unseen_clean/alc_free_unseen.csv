@@ -1,0 +1,14 @@
+name,rating,method,style,flavor,fermentation,country,split,abv,pasteurization
+beck's green lemon 0.0,8.0,industrial,pils,lemon,bottom,germany,test,0.0,pasteurized
+bitburger grapefruit 0.0,9.0,industrial,pils,fruit,bottom,germany,test,0.0,pasteurized
+clausthaler unfiltered 0.0,7.0,industrial,pils,standard,bottom,germany,test,0.0,pasteurized
+crabbies ginger beer traditional cloudy reduced sugar recipe 0.0,10.0,industrial,soda,herb,top,uk,test,0.0,pasteurized
+diebels 0.0,1.0,industrial,alt,standard,top,germany,test,0.0,pasteurized
+erdinger 0.0,7.0,industrial,wheat,standard,top,germany,test,0.0,pasteurized
+franziskaner weissbier zitrone 0.0,7.0,industrial,wheat,lemon,top,germany,test,0.0,pasteurized
+fruh sport fassbrause zitrone 0.0,8.0,industrial,soda,lemon,top,germany,test,0.0,pasteurized
+jever fun friesisch herb 0.0,5.0,industrial,pils,herb,bottom,germany,test,0.0,pasteurized
+krombacher's fassbrause cola & orange 0.0,8.0,industrial,soda,fruit,top,germany,test,0.0,pasteurized
+tem's root beer 0.0,9.0,industrial,soda,standard,top,germany,test,0.0,pasteurized
+veltins fassbrause apfel-krauter 0.0,6.0,industrial,soda,fruit,top,germany,test,0.0,pasteurized
+veltins radler 0.0,8.0,industrial,pils,lemon,bottom,germany,test,0.0,pasteurized

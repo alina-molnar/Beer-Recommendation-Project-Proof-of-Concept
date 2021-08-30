@@ -1,0 +1,60 @@
+name,rating,method,style,flavor,fermentation,country,split,abv,pasteurization
+altenmunster hopfig herb 4.9,9.0,industrial,lager,herb,bottom,germany,test,4.9,pasteurized
+arrogant nepasteurizata india pale ale 6.0,3.0,craft,ale,standard,top,romania,test,6.0,unpasteurized
+beck's 1873 pils traditionell frisch 6.0,8.0,industrial,pils,standard,bottom,germany,test,6.0,pasteurized
+benediktiner hell 5.0,8.0,industrial,blonde,standard,top,germany,test,5.0,pasteurized
+bereta brewing community happy lager 5.1,7.0,craft,lager,standard,bottom,romania,test,5.1,pasteurized
+bergenbier ale 5.5,8.0,industrial,ale,standard,top,romania,test,5.5,pasteurized
+citrilla weizen india pale ale 6.0,7.0,craft,ale,standard,top,germany,test,6.0,pasteurized
+deranj oranj wheat ale nepasteurizata 5.0,4.0,craft,ale,standard,top,romania,test,5.0,unpasteurized
+falkenfelser premium winterbier 5.6,8.0,industrial,lager,standard,bottom,germany,test,5.6,pasteurized
+falkenfelster weissbier 5.2,7.0,industrial,wheat,standard,top,germany,test,5.2,pasteurized
+frankenheim der feine unterschied 4.8,7.0,industrial,alt,standard,top,germany,test,4.8,pasteurized
+franziskaner premium weissbier dunkel 5.0,8.0,industrial,dark,standard,bottom,germany,test,5.0,pasteurized
+gauloise christmas bocq 8.1,9.0,craft,lager,standard,bottom,belgium,test,8.1,pasteurized
+grimbergen blonde 6.7,7.0,industrial,blonde,standard,top,germany,test,6.7,pasteurized
+hansa pils 4.8,6.0,industrial,pils,standard,bottom,germany,test,4.8,pasteurized
+haramin belgian india pale ale 5.5,8.0,craft,ale,standard,top,belgium,test,5.5,pasteurized
+hora unirii 5.0,8.0,craft,lager,standard,bottom,romania,test,5.0,pasteurized
+indigen blonda nepasteurizata 4.5,7.0,craft,blonde,standard,top,romania,test,4.5,unpasteurized
+kilkenny irish red ale 4.2,9.0,industrial,ale,standard,top,ireland,test,4.2,pasteurized
+kozel dark 3.8,6.0,industrial,dark,standard,bottom,czechia,test,3.8,pasteurized
+kozel premium lager 4.6,7.0,industrial,lager,standard,bottom,czechia,test,4.6,pasteurized
+krombacher naturtrubes landbier 5.2,9.0,industrial,pils,standard,bottom,germany,test,5.2,unpasteurized
+krombacher pils brauerreger nr. 2 4.8,8.0,industrial,pils,standard,bottom,germany,test,4.8,pasteurized
+kulmbacher kapuziner hefe weissbier naturtrub 5.4,8.0,industrial,wheat,standard,top,germany,test,5.4,unpasteurized
+kurpfalz brau kellerbier 4.8,6.0,industrial,keller,standard,bottom,germany,test,4.8,unpasteurized
+landfurst premium alt 4.8,6.0,industrial,alt,standard,top,germany,test,4.8,pasteurized
+lomza pilsener 5.7,-1.0,industrial,pils,standard,bottom,poland,test,5.7,pasteurized
+lowenbrau original 5.2,5.0,industrial,lager,standard,bottom,germany,test,5.2,pasteurized
+natu hell natur uber alles 4.5,10.0,craft,blonde,standard,top,germany,test,4.5,unpasteurized
+nemteana aramie nefiltrata 6.4,8.0,craft,ale,standard,top,romania,test,6.4,pasteurized
+n'ice chouffe belgian winterbeer 10.0,9.0,craft,dark,standard,bottom,belgium,test,10.0,pasteurized
+oettinger alt 4.9,7.0,industrial,alt,standard,top,germany,test,4.9,pasteurized
+oettinger export 5.4,7.0,industrial,lager,standard,bottom,germany,test,5.4,pasteurized
+oettinger hefeweissbier naturtrub 4.9,6.0,industrial,wheat,standard,top,germany,test,4.9,unpasteurized
+one beer later american amber ale nefiltrata nepasteurizata 5.0,6.0,craft,ale,standard,top,romania,test,5.0,unpasteurized
+oppler pilsner red label 4.1,9.0,industrial,pils,standard,bottom,czechia,test,4.1,pasteurized
+"original 5,0 5.0",4.0,industrial,pils,standard,bottom,germany,test,5.0,pasteurized
+paulaner hefe-weissbier dunkel 5.3,7.0,industrial,dark,standard,bottom,germany,test,5.3,pasteurized
+pilsner urquell original pilsner bier 4.4,4.0,industrial,pils,standard,bottom,czechia,test,4.4,pasteurized
+prost! pils 5.0,6.5,industrial,pils,standard,bottom,germany,test,5.0,pasteurized
+sapte coline marzen nefiltrata 5.75,4.0,craft,lager,standard,bottom,romania,test,5.75,pasteurized
+schofferhofer hefeweizen naturtrub 5.0,7.5,industrial,wheat,standard,top,germany,test,5.0,unpasteurized
+sester kolsch 4.8,5.0,industrial,blonde,standard,top,germany,test,4.8,pasteurized
+silva lager negru premium 7.0,6.0,craft,lager,standard,bottom,romania,test,7.0,pasteurized
+steam brew session india pale ale 4.9,6.0,craft,ale,standard,top,germany,test,4.9,pasteurized
+stephans brau premium export 5.2,7.0,industrial,pils,standard,bottom,germany,test,5.2,pasteurized
+stephans brau premium pils 4.9,7.0,industrial,pils,standard,bottom,germany,test,4.9,pasteurized
+stolichno bock 6.5,9.5,industrial,lager,standard,bottom,bulgaria,test,6.5,pasteurized
+stortebeker atlantik-ale 5.1,5.0,industrial,ale,standard,top,germany,test,5.1,pasteurized
+stortebeker hanse-porter 4.0,8.0,industrial,pils,standard,bottom,germany,test,4.0,pasteurized
+three happy brewers balkan breakfast coffee oatmeal stout 7.0,8.5,craft,dark,standard,bottom,romania,test,7.0,pasteurized
+timisoreana nepasteurizata 5.0,8.0,industrial,lager,standard,bottom,romania,test,5.0,unpasteurized
+turmbrau original premium pils 4.9,5.0,industrial,pils,standard,bottom,germany,test,4.9,pasteurized
+veltins curuba tequila 5.0,3.0,industrial,mix,standard,bottom,germany,test,5.0,pasteurized
+warsteiner 4.8,6.5,industrial,pils,standard,bottom,germany,test,4.8,pasteurized
+warsteiner weihnacht 5.6,6.0,industrial,pils,standard,bottom,germany,test,5.6,pasteurized
+zaganu blonda nepasteurizata 5.3,8.0,craft,blonde,standard,top,romania,test,5.3,unpasteurized
+zagorka 4.5,6.0,industrial,lager,standard,bottom,bulgaria,test,4.5,pasteurized
+zywiec 5.6,8.0,industrial,lager,standard,bottom,poland,test,5.6,pasteurized
