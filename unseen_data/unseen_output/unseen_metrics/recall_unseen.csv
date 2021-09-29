@@ -1,4 +1,4 @@
-model_name,recall
-alc_free_unseen,0.0
-light_unseen,
-regular_unseen,0.2857142857142857
+model_name,recall_score
+regular_unseen_pred,0.2857142857142857
+alc_free_unseen_pred,0.0
+light_unseen_pred,

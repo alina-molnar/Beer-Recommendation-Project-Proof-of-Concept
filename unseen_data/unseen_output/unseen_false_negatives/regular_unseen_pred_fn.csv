@@ -1,0 +1,6 @@
+name,rating,method,style,flavor,fermentation,country,split,abv,pasteurization,predict
+arrogant nepasteurizata india pale ale 6.0,3.0,craft,ale,standard,top,romania,test,6.0,unpasteurized,5.74
+lomza pilsener 5.7,-1.0,industrial,pils,standard,bottom,poland,test,5.7,pasteurized,6.18
+"original 5,0 5.0",4.0,industrial,pils,standard,bottom,germany,test,5.0,pasteurized,6.230000047683716
+pilsner urquell original pilsner bier 4.4,4.0,industrial,pils,standard,bottom,czechia,test,4.4,pasteurized,6.4
+sapte coline marzen nefiltrata 5.75,4.0,craft,lager,standard,bottom,romania,test,5.75,pasteurized,6.16

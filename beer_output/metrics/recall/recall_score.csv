@@ -1,4 +1,4 @@
-model_name,recall
+model_name,recall_score
 alc_free_2std_drf,
 alc_free_all_drf,0.6666666666666666
 beer_2std_drf,0.25
