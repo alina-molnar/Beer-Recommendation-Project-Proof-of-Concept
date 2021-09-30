@@ -39,11 +39,15 @@ To run the code, open the Jupyter notebook file and click “Run All” button. 
 
 Requirements file, location on github: ./Requirements.txt
 
-Final Report, location on github: ./Final_Report.docx
+Final Report, location on github: ./Final_Report.pdf
 
-PowerPoint Presentation, location on github: ./Summary_Presentation.pptx
+PowerPoint Presentation, location on Scribd at https://www.scribd.com/presentation/528726148/Data-Science-Beer-Recommendation-Machine-Learning-Summary
 
-Video Code Presentation, location on github: ./Video_Code_Presentation.mp4
+PowerPoint Presentation, location on Github: ./Summary_Presentation.pptx
+
+Video Code Presentation, location on Youtube: https://www.youtube.com/watch?v=0J-50p2U_wQ
+
+Video Code Presentation, location on Github: ./Video_Code_Presentation.mp4
 
 
 Data used for training:
