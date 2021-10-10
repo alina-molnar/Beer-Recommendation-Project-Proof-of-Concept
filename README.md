@@ -41,6 +41,8 @@ Requirements file, location on github: ./Requirements.txt
 
 Final Report, location on github: ./Final_Report.pdf
 
+Final Report, location on https://www.scribd.com/document/531418618/Final-Report-Beer-Recommendation-Project
+
 PowerPoint Presentation, location on Scribd at https://www.scribd.com/presentation/528726148/Data-Science-Beer-Recommendation-Machine-Learning-Summary
 
 PowerPoint Presentation, location on Github: ./Summary_Presentation.pptx
